@@ -1,0 +1,16 @@
+body,
+html{
+    margin: 0;
+    padding: 0;
+} 
+
+body {
+    background-color: #0f0a1e;
+    color: #ffe4fa;
+    font-family: 'Press Start 2P';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-width: fit;
+}
